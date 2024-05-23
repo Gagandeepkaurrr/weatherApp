@@ -11,5 +11,4 @@ Weather App
   - Enter the name of the city for which you want to retrieve weather information in the input field.
   - Press the "Search" button.
   - The application will display the current temperature, humidity, and wind speed for the specified city.
-- Icons
-Icons used in this project are obtained from www.Flaticon.com
+- Icons used in this project are obtained from www.Flaticon.com
